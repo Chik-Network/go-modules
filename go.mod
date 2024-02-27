@@ -1,4 +1,4 @@
-module github.com/chia-network/go-modules
+module github.com/chik-network/go-modules
 
 go 1.19
 

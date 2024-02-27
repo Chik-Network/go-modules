@@ -3,7 +3,7 @@ package githubjwt
 import (
 	"net/http"
 
-	"github.com/chia-network/go-modules/pkg/jwt"
+	"github.com/chik-network/go-modules/pkg/jwt"
 )
 
 const (
